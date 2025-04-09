@@ -1,0 +1,16 @@
+*{
+  background-color: black;
+}
+.App-logo{
+
+  height: 500px;
+}
+.btn,.htex{
+  color: rgba(255,82,39,228);
+}
+.btn{
+  height: fit-content;
+  width: 150px;
+  border: solid 2px rgba(255,82,39,228);
+  border-radius: 5px;
+}
